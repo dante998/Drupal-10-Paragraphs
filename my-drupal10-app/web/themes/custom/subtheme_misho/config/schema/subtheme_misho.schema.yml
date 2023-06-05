@@ -1,0 +1,5 @@
+# Schema for the configuration files of the subtheme_misho theme.
+
+subtheme_misho.settings:
+  type: theme_settings
+  label: 'subtheme_misho settings'
